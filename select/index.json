@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "帝国少女",
+  "base_artist": "R Sound Design",
+  "createdAt": "2026-01-09T17:30:52.056008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "R Sound Design",
+      "has_synced": false,
+      "path": "select/01_帝国少女_R_Sound_Design.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "R Sound Design feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_帝国少女_R_Sound_Design_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "帝国少女～深海少女",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": true,
+      "path": "select/03_帝国少女~深海少女_東京フィルハーモニー交響楽団.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/04_帝国少女_Sou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "帝国少女 (feat. 小豆沢こはね&白石杏&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_帝国少女_(feat._小豆沢こはね&白石杏&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "帝国少女 (CGS-edit)",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/06_帝国少女_(CGS-edit)_R_Sound_Design.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&初音ミク",
+      "has_synced": true,
+      "path": "select/07_帝国少女_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/08_帝国少女_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/09_帝国少女_Sou.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/10_帝国少女_R_Sound_Design.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "E ve",
+      "has_synced": false,
+      "path": "select/11_帝国少女_E_ve.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "帝国少女 - Imperial Girl",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/12_帝国少女_-_Imperial_Girl_R_Sound_Design.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "帝国少女 (feat. Hatsune Miku)",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/13_帝国少女_(feat._Hatsune_Miku)_R_Sound_Design.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/14_帝国少女_Eve.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "帝国少女～深海少女 (Live)",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": true,
+      "path": "select/15_帝国少女~深海少女_(Live)_東京フィルハーモニー交響楽団.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "帝国少女 (Paused)",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/16_帝国少女_(Paused)_R_Sound_Design.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "帝国少女",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/17_帝国少女_R_Sound_Design.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "帝国少女",
+      "artist": "R Sound Design",
+      "has_synced": false,
+      "path": "select/pl_01_帝国少女_R_Sound_Design.txt"
+    }
+  ]
+}
